@@ -13,5 +13,6 @@ My skillset includes:
 - **Languages**: SQL (MySQL), R (ggplot2, dplyr, caret)
 - **Softwares**: RStudio, MySQL, Tableau, JIRA/Confluence, Excel, PowerPoint, Asana, Hubspot, Adobe Illustrator.
 
+Outside of work, you can find me reading, working out, writing, or watching Survivor!
 
 📫 Happy to chat! Reach out via email: jeneralmcg@gmail.com
