@@ -6,7 +6,7 @@
 
 🤝 My goal is to help companies make decisions based on the intersection of their data with consumer choices, marketing campaigns, and people + talent operations. 
 
-☑️ With a BS in Business Administration with concentrations in Marketing and Accounting, I am able to distill technical material into actionable insights for key enterprise stakeholders.   
+☑️ With a B.S. in Business Administration with concentrations in Marketing and Accounting, I am able to distill technical material into actionable insights for key enterprise stakeholders.   
 
 My skillset includes:
 
